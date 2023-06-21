@@ -1,0 +1,72 @@
+.conpag{
+    text-align: center;
+    color: rgb(20, 173, 238);
+    margin-top: 0em;
+    position: absolute;
+    margin-left: 40em;
+    border: none;
+
+}
+.icn{
+    margin-left: 91em;
+
+}
+.insta1:hover{
+    width: 4em;
+    height: 4em;
+}
+.insta2:hover{
+    width: 4em;
+    height: 4em;
+}
+.insta3:hover{
+    width: 4em;
+    height: 4em;
+}
+.insta4:hover{
+    width: 4em;
+    height: 4em;
+}
+.insta1{
+    width: 3em;
+    height: 3em;
+    color: rgb(110, 4, 175);
+}
+.insta2{
+    width: 3em;
+    height: 3em;
+    color: rgb(3, 203, 243);
+}
+.insta3{
+    width: 3em;
+    height: 3em;
+    color: rgb(210, 12, 98);
+}
+.insta4{
+    width: 3em;
+    height: 3em;
+    color: rgb(188, 7, 7);
+    
+}
+.conbt{
+    width: 12em;
+    height: 2.5em;
+    background-color: rgb(0, 200, 255);
+    border: none;
+    color: white;
+    border-radius: 20%;
+}
+.conbt:hover{
+    width: 13em;
+    height: 3em;
+    font-weight: bolder;
+    background-color: rgb(191, 11, 11);
+    color: rgb(238, 215, 82);
+}
+.class1{
+    background-image: url(https://st2.depositphotos.com/1265075/7365/i/450/depositphotos_73656201-stock-photo-web-contact-us-icons-cubes.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    width: 96em;
+    height: 41.2em;
+}

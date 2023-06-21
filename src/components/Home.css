@@ -1,0 +1,51 @@
+.c1{
+    position: absolute;
+    color: rgb(254, 172, 172);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    margin-top: 11em;
+    margin-left: 1em;
+}
+.c2:hover{
+    width: 14.5em;
+    height: 23em;
+
+}
+.c1:hover{
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #780101 0%, #4b0310 74%);
+}
+.c3:hover{
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #780101 0%, #4b0310 74%);
+}
+.c3{
+    position: absolute;
+    color: rgb(254, 172, 172);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    margin-top: 12.3em;
+    margin-left: 1em;
+}
+.c2{
+    position: absolute;
+    width: 13.5em;
+    height: 22em;
+    margin-left: 8em;
+    margin-top: 4em;
+    border-radius: 10%;
+}
+.c4{
+    position: absolute;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    margin-top: 19.3em;
+    margin-left: 8em;
+    color: rgb(255, 212, 220);
+}
+.img{
+    height: 41.2em;
+    width: 96em;
+    
+}
